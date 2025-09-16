@@ -8,7 +8,7 @@ It also provides an animated visualization of the solution path.
 ---
 
 ## Features
-- Supports different puzzle sizes (3×3, 4×4, 5×5, ...).
+- Supports different puzzle sizes (3×3, 4×4, 5×5).
 - Multiple search algorithms:
   - Depth-First Search (DFS)
   - Best-First Search
