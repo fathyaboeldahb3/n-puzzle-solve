@@ -13,4 +13,16 @@ It also provides an animated visualization of the solution path.
   - Depth-First Search (DFS)
   - Best-First Search
   - A* Search
-- Heuristics
+- Heuristics:
+  - Manhattan Distance
+  - Misplaced Tiles
+- Step-by-step animation of the solution.
+- Simple and interactive GUI built with **Pygame**.
+
+---
+
+## Requirements
+Before running the project, make sure you have the following installed:
+
+```bash
+pip install pygame
