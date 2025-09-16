@@ -24,5 +24,11 @@ It also provides an animated visualization of the solution path.
 ## Requirements
 Before running the project, make sure you have the following installed:
 
+----
+
+## Collaborators
+- [MargrettRomany](https://github.com/MargrettRomany)
+- [mohamed-nasser11](https://github.com/mohamed-nasser11)
+
 ```bash
 pip install pygame
